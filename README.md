@@ -95,6 +95,7 @@ The model was trained using a dataset of individuals' gender, height, weight, an
 
 ## IMAGE
 
-![BMI_screenshot](https://github.com/user-attachments/assets/9b29b04e-8503-4532-a52e-a98147059c6d)
+![Screenshot 2024-12-16 222118](https://github.com/user-attachments/assets/797ff991-04f4-4a42-b22e-3592705b221d)
+
 
 

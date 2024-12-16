@@ -177,6 +177,11 @@ def main():
     if 'bmi_category' not in st.session_state:
         st.session_state['bmi_category'] = None
 
+    # Display calculated BMI using formula
+    if height > 0 and weight > 0:
+        bmi = weight / ((height / 100) ** 2)
+        st.info(f"Your Calculated BMI is: {bmi:.2f}")
+
     # Prediction result
     if st.button('Calculate BMI'):
         if gender and height > 0 and weight > 0:
@@ -199,7 +204,7 @@ def main():
         st.info(exercise_plans[st.session_state['bmi_category']])
 
     # Sidebar for features
-    st.sidebar.title("Advanced Features 🧷")
+    st.sidebar.title("Advanced Features 🔗")
 
     # Health Tips
     with st.sidebar.expander("Daily Health Tip "):

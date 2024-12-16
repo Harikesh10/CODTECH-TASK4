@@ -3,7 +3,7 @@
 ##### **ID:** CT08DS9875
 ##### **Domain:** Machine Learning
 ##### **Duration:** November 30th 2024 to December 30th 2024
-##### **Mentor:** MR.Neela Santhosh Kumar
+##### **Mentor:** MR.Neelam Santhosh Kumar
 ##### **Task:** TASK4: BMI TRACKER APP
 
 

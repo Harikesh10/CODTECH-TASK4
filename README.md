@@ -93,6 +93,3 @@ The model was trained using a dataset of individuals' gender, height, weight, an
 - Ensure the `bmi.csv` and `trained_model.sav` files are correctly placed in the same directory as `app.py`. 📂
 - If you're encountering issues with inputs, make sure to provide valid numbers for height and weight. 🧐
 
-## 📜 License 📜
-
-This project is licensed under the MIT License. See the LICENSE file for more details. 📃

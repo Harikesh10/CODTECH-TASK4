@@ -50,7 +50,7 @@ pip install pandas scikit-learn streamlit
 streamlit run app.py
 ```
 
-This will launch a local server and open the app in your default browser. 🌐
+This will launch a local server and open the app in your default browser.
 
 ## 🤖 Model Details 🤖
 
@@ -64,32 +64,35 @@ The model used in this app is a Random Forest Classifier that predicts the BMI c
 ### Target: BMI category (0 to 5)
 
 BMI Categories:
-- 0: Extremely Weak 🦸‍♂️
-- 1: Weak 💪
-- 2: Normal ⚖️
-- 3: Overweight 🍔
-- 4: Obesity 🍩
-- 5: Extreme Obesity 🍕
+- 0: Extremely Weak 
+- 1: Weak
+- 2: Normal 
+- 3: Overweight 
+- 4: Obesity 
+- 5: Extreme Obesity 
 
 The model was trained using a dataset of individuals' gender, height, weight, and BMI categories. 📚
 
 ## 💡 Usage 💡
 
 ### Streamlit Interface:
-- **Gender**: Select your gender (Male or Female). 👦👧
-- **Height**: Enter your height in centimeters (range: 50 to 250 cm). 📏
-- **Weight**: Enter your weight in kilograms (range: 10 to 200 kg). ⚖️
-- **Calculate BMI**: After filling in the fields, click the Calculate BMI button to predict your BMI category. 🧮
+- **Gender**: Select your gender (Male or Female). 
+- **Height**: Enter your height in centimeters (range: 50 to 250 cm).
+- **Weight**: Enter your weight in kilograms (range: 10 to 200 kg). 
+- **Calculate BMI**: After filling in the fields, click the Calculate BMI button to predict your BMI category.
 
 ### Example Prediction:
-- **Gender**: Male 👨
-- **Height**: 175 cm 📏
-- **Weight**: 70 kg ⚖️
+- **Gender**: Male
+- **Height**: 175 cm 
+- **Weight**: 70 kg 
 
-**Predicted BMI Category**: Normal ⚖️
+**Predicted BMI Category**: Normal 
 
 ## ⚠️ Troubleshooting ⚠️
 
-- Ensure the `bmi.csv` and `trained_model.sav` files are correctly placed in the same directory as `app.py`. 📂
-- If you're encountering issues with inputs, make sure to provide valid numbers for height and weight. 🧐
+- Ensure the `bmi.csv` and `trained_model.sav` files are correctly placed in the same directory as `app.py`. 
+- If you're encountering issues with inputs, make sure to provide valid numbers for height and weight. 
+
+![BMI_screenshot](https://github.com/user-attachments/assets/9b29b04e-8503-4532-a52e-a98147059c6d)
+
 

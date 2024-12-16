@@ -91,7 +91,9 @@ The model was trained using a dataset of individuals' gender, height, weight, an
 ## ⚠️ Troubleshooting ⚠️
 
 - Ensure the `bmi.csv` and `trained_model.sav` files are correctly placed in the same directory as `app.py`. 
-- If you're encountering issues with inputs, make sure to provide valid numbers for height and weight. 
+- If you're encountering issues with inputs, make sure to provide valid numbers for height and weight.
+
+## IMAGE
 
 ![BMI_screenshot](https://github.com/user-attachments/assets/9b29b04e-8503-4532-a52e-a98147059c6d)
 

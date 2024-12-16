@@ -99,7 +99,7 @@ def main():
     # Set page configuration
     st.set_page_config(
         page_title=" BMI Tracker PAL",
-        page_icon="🏋️",
+        page_icon=":muscle:",
         layout="wide",
         initial_sidebar_state="expanded"
     )

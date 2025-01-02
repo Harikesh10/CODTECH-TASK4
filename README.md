@@ -9,7 +9,7 @@
 
 
 
-# 🏋️‍♂️ BMI Tracker 🏋️‍♀️
+# 🏋️‍♂️ BMI Tracker App 🏋️‍♀️
 
 Welcome to the BMI Tracker app! 🌟 This app predicts your BMI category based on your gender, height, and weight. The model is built using Random Forest Classifier and provides an easy way to determine if you're underweight, normal, overweight, or in another category. 💪
 

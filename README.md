@@ -1,4 +1,4 @@
-##### **Name:** Harikesh
+##### **Name:** Harikesh C
 ##### **Company:** CODTECH IT SOLUTIONS
 ##### **ID:** CT08DS9875
 ##### **Domain:** Machine Learning

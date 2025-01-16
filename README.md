@@ -97,5 +97,5 @@ The model was trained using a dataset of individuals' gender, height, weight, an
 
 ![Screenshot 2024-12-16 222118](https://github.com/user-attachments/assets/797ff991-04f4-4a42-b22e-3592705b221d)
 
-
+I failed 🥺 !!
 

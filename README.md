@@ -99,3 +99,8 @@ The model was trained using a dataset of individuals' gender, height, weight, an
 
 
 
+#### I will Never Quit 
+#### Never give up buddy!!!
+
+
+
